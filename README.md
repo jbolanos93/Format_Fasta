@@ -7,28 +7,28 @@ This script will format nucleotide bases to be the same length of string.
 
 Example: 
 
-'>Seq1
+\>Seq1
 ATGGG
 GGGGG
 ATTGT
->Seq2
+\>Seq2
 ATGAGAGAGAAG
 ATGAGAGAGAAG
 ATGAGAGAGAAG
 
 output will be: 
->Seq1
+\>Seq1
 ATGGGGGG
 GGGGGGGG
 ATTGTGAA
->Seq2
+\>Seq2
 ATGAGAGA
 GAAGATGA
 GAGAGAAG
 ATGAGAGA
 GAAG
 
-## python command:
+## Python Command:
 Run as follows:
 
 python Format_Fasta.py <Path to Fasta> <Length of Sequence>
