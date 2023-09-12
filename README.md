@@ -5,23 +5,23 @@
 
 This script will format nucleotide bases to be the same length of string. 
 
-Example: 
+*Example:*
 
-\>Seq1
+\>Seq1<br>
 ATGGG<br>
 GGGGG<br>
 ATTGT<br>
-\>Seq2
+\>Seq2<br>
 ATGAGAGAGAAG<br>
 ATGAGAGAGAAG<br>
 ATGAGAGAGAAG<br>
 
-output will be: 
-\>Seq1
+output will be: <br><br>
+\>Seq1<br>
 ATGGGGGG<br>
 GGGGGGGG<br>
 ATTGTGAA<br>
-\>Seq2
+\>Seq2<br>
 ATGAGAGA<br>
 GAAGATGA<br>
 GAGAGAAG<br>
