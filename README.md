@@ -8,25 +8,25 @@ This script will format nucleotide bases to be the same length of string.
 Example: 
 
 \>Seq1
-ATGGG
-GGGGG
-ATTGT
+ATGGG<br>
+GGGGG<br>
+ATTGT<br>
 \>Seq2
-ATGAGAGAGAAG
-ATGAGAGAGAAG
-ATGAGAGAGAAG
+ATGAGAGAGAAG<br>
+ATGAGAGAGAAG<br>
+ATGAGAGAGAAG<br>
 
 output will be: 
 \>Seq1
-ATGGGGGG
-GGGGGGGG
-ATTGTGAA
+ATGGGGGG<br>
+GGGGGGGG<br>
+ATTGTGAA<br>
 \>Seq2
-ATGAGAGA
-GAAGATGA
-GAGAGAAG
-ATGAGAGA
-GAAG
+ATGAGAGA<br>
+GAAGATGA<br>
+GAGAGAAG<br>
+ATGAGAGA<br>
+GAAG<br>
 
 ## Python Command:
 Run as follows:
