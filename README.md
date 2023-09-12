@@ -28,6 +28,7 @@ GAGAGAAG<br>
 ATGAGAGA<br>
 GAAG<br>
 
+*Package downloads a sample fasta to test code with.*
 ## Python Command:
 Run as follows:
 ```python
