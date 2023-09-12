@@ -1,6 +1,7 @@
 # Format_Fasta
  Python Script that will format length of nucleotide bases in fasta file.
-
+## Requirements 
+* python 3.0 or greater
 ## How to use: 
 
 This script will format nucleotide bases to be the same length of string. 
