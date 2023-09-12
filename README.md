@@ -33,9 +33,9 @@ Run as follows:
 ```python
 python Format_Fasta.py <Path to Fasta> <Length of Sequence>
 ```
-**\<Path to Fasta>** is the path to the fasta file you want to format. (extension of the file should be .fa .fasta .FASTA)
+**Path to Fasta:** is the path to the fasta file you want to format. (extension of the file should be .fa .fasta .FASTA)
 
-**\<Length of Sequence>** is an integer determining how many bases to have per squence.
+**Length of Sequence** is an integer determining how many bases to have per squence.
 
 **Example:**
 ```python
