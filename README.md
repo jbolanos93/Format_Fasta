@@ -31,7 +31,7 @@ GAAG<br>
 ## Python Command:
 Run as follows:
 
-python Format_Fasta.py \<Path to Fasta>\ <Length of Sequence>
+python Format_Fasta.py \<Path to Fasta> \<Length of Sequence>
 
 <Path to Fasta> is the path to the fasta file you want to format. (extension of the file should be .fa .fasta .FASTA)
 
