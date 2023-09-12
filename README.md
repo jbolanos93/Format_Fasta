@@ -29,6 +29,8 @@ GAGAGAAG<br>
 ATGAGAGA<br>
 GAAG<br>
 
+New file will be written in the same directory as the provided fasta. 
+
 *note: Package downloads a sample fasta to test code with.*
 ## Python Command:
 **Run as follows:**
