@@ -37,5 +37,5 @@ python Format_Fasta.py \<Path to Fasta> \<Length of Sequence>
 
 **\<Length of Sequence>** is an integer determining how many bases to have per squence.
 
-*Exapmle:* 
-python Format_Fasta.py /Users/Foo/Desktop/Fasta_file.fasta 35"
+**Example:**
+python Format_Fasta.py /Users/Foo/Desktop/Fasta_file.fasta 35
