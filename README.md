@@ -2,7 +2,7 @@
  Python Script that will format length of nucleotide bases in fasta file.
 ## Requirements 
 * python 3.0 or greater
-## How to use: 
+## Description: 
 
 This script will format nucleotide bases to be the same length of string. 
 
@@ -32,7 +32,7 @@ GAAG<br>
 New file will be written in the same directory as the provided fasta. 
 
 *note: Package downloads a sample fasta to test code with.*
-## Python Command:
+## How to use:
 **Run as follows:**
 ```python
 python Format_Fasta.py <Path to Fasta> <Length of Sequence>
