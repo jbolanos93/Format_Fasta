@@ -30,7 +30,7 @@ GAAG<br>
 
 *note: Package downloads a sample fasta to test code with.*
 ## Python Command:
-Run as follows:
+**Run as follows:**
 ```python
 python Format_Fasta.py <Path to Fasta> <Length of Sequence>
 ```
